@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtuelle Umgebung
+.venv/
+venv/
+
+# Umgebungsvariablen und Zugangsdaten
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Temporäre Dateien
+*.log
+*.tmp
+
+# Ollama / Modelle
+*.gguf
+*.safetensors
+
+#VSCode
+*.vscode
